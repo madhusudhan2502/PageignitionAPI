@@ -12,7 +12,7 @@ Then open the Package Manager Console and execute the below scripts one by one. 
 1.add-migration
 2.update-database
 
-Then Run the attached SQL Script that attached with this mail. which will insert the Data into the BondAppData Table.
+Then Run the attached SQL Script "PaginationAPI_Insert_Date.sql" that added with solution. which will insert the Data into the BondAppData Table.
 
 Once done , Run the application and access this URL : https://localhost:44312/api/BondApp/
 
